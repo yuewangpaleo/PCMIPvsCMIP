@@ -13,10 +13,12 @@ PCMIP: pollen-climate relationship driven;
        fossil support: precise;
        more bio climate variables might be reconstructed;
 
+
 # Goal
 
 1) find the advantage/disadvantages of both types of models;
 2) give a recommendation about the application condition of both types of models
+
 
 # Method
 
@@ -31,7 +33,7 @@ last glaciation?
 
 ## Models and datasets
 ### CMIP:
-* downscaled CCSM3;
+* downscaled CCSM3 from Yue;
 
 ### PCMIP:
 * model: MAT, XXX, XXX
