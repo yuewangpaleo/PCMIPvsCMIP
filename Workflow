@@ -1,0 +1,38 @@
+# Background
+
+High quality climate reconstruction (high resolution, precise, uncertainties estimation) are needed.
+
+CMIP: earth-atmosphere mechanisms driven; 
+      high temporal & spatial resolution; 
+      large spatial range; long time scale;
+      various climate variables;
+      BUT 
+      perform bad in some areas or at some periods (contrast with fossil works): for example, in Alaska or Beringia in LGM;
+
+PCMIP: pollen-climate relationship driven; 
+       fossil support: precise;
+       more bio climate variables might be reconstructed;
+
+# Goal
+
+1) find the advantage/disadvantages of both types of models;
+2) give a recommendation about the application condition of both types of models
+
+# Method
+
+## Compare the climate reconstructions between PCMIP and CMIP in perspectives of 
+* 1) reconstructed climate variables;
+* 2) precision;
+* 3) uncertainties estimation;
+
+## Regions and periods:
+global? continental?
+last glaciation?
+
+## Models and datasets
+### CMIP:
+* downscaled CCSM3;
+
+### PCMIP:
+* model: MAT, XXX, XXX
+* Datasets: NAMPD, EMPD, XXX
